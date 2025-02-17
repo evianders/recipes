@@ -1,8 +1,9 @@
 # Guacamole
 
 ## Ingredients
-* avocado
-* lime
-* salt
+* Avocado
+* Lime
+* Lalt
 
 ## Instructions
+Stir everything long enough!
