@@ -1,2 +1,4 @@
 *.png
 receipts/
+!receipts/data/data.csv
+
